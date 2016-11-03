@@ -38,7 +38,7 @@
 
 .wrapper {
   position: absolute;
-  top: 83%;
+  top: 80%;
   left: 10%;
   margin: -190px 0 0 -468px;
   font-family: 'Open Sans', sans-serif;
@@ -71,7 +71,7 @@
   float: left;
 }
 .package:hover {
-  margin-top: -30px;
+  margin-top: -5px;
   -webkit-transition: margin-top 0.3s linear;
   transition: margin-top 0.3s linear;
 }
