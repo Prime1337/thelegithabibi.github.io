@@ -129,7 +129,7 @@ div.package li::before {
   transition: margin-top 0.5s linear;
   position: relative;
   float: left;
-  left: 30%; 
+  left: 10%; 
 }
 div.packagecustom hr {
   background-color: #dedede;
